@@ -25,3 +25,23 @@
   background-color: #e76f51;
   color: white;
 }
+/* header end  */
+
+/* fetured bike  */
+#bike-gray {
+  filter: grayscale(90%);
+}
+
+/* happy clints  */
+
+.clint-bg {
+  background-color: #ffffff;
+}
+
+.fa-star {
+  color: #e77c40;
+}
+
+span .fa-star {
+  background-color: #e77c40;
+}

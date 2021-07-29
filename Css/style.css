@@ -49,3 +49,14 @@ h2 span {
 .FAQ {
   font-family: "Poppins";
 }
+
+#Email {
+  width: 250px;
+}
+#Password {
+  width: 250px;
+}
+
+.signup-bg {
+  background-color: #ac1718;
+}

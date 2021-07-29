@@ -42,6 +42,10 @@
   color: #e77c40;
 }
 
-span .fa-star {
-  background-color: #e77c40;
+/* FAQ section  */
+h2 span {
+  color: #e76f51;
+}
+.FAQ {
+  font-family: "Poppins";
 }
